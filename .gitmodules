@@ -1,0 +1,3 @@
+[submodule "RF"]
+	path = RF
+	url = https://github.com/tdtc-hrb/bsp-nrf905
